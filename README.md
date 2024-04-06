@@ -1,2 +1,2 @@
 # algorithm-challenges
-To complete and practice algorithm challenges
+Completing and practicing algorithm challenges
